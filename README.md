@@ -52,7 +52,7 @@
 ---
 ## 2020
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_View-GCN_View-Based_Graph_Convolutional_Network_for_3D_Shape_Analysis_CVPR_2020_paper.pdf)] View-GCN: View-based Graph Convolutional Network for 3D Shape Analysis.   [[pytorch](https://github.com/weixmath/view-GCN)][__`Classification.`__ __`Retrieval.`__] :fire: :star:
-
+---
 <h1> 
  
 ```diff
@@ -77,15 +77,11 @@
 - [[SemanticKITTI](http://semantic-kitti.org)] Sequential Semantic Segmentation, 28 classes, for autonomous driving. All sequences of KITTI odometry labeled. [[ICCV 2019 paper](https://arxiv.org/abs/1904.01416)] 
 - [[The Waymo Open Dataset](https://waymo.com/open/)] The Waymo Open Dataset is comprised of high resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions. 
 - [[Oxford Robotcar](https://robotcar-dataset.robots.ox.ac.uk/)] The dataset captures many different combinations of weather, traffic and pedestrians. 
-
-<h1> 
- 
-```diff
-- References
-```
-
-</h1>
+---
+## References
 
 - https://github.com/timzhang642/3D-Machine-Learning
 - https://github.com/QingyongHu/SoTA-Point-Cloud
 - https://github.com/Yochengliu/awesome-point-cloud-analysis
+## Updates
+* 17/08/2020: adding view-based method and datasets
