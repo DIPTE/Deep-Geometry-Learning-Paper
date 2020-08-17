@@ -9,7 +9,7 @@
 <h1> 
  
 ```diff 
-View-Based
+- View-Based
 ```
 
 </h1>
@@ -56,7 +56,7 @@ View-Based
 <h1> 
  
 ```diff
-Datasets
+- Datasets
 ```
 
 </h1>
@@ -78,3 +78,14 @@ Datasets
 - [[The Waymo Open Dataset](https://waymo.com/open/)] The Waymo Open Dataset is comprised of high resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions. 
 - [[Oxford Robotcar](https://robotcar-dataset.robots.ox.ac.uk/)] The dataset captures many different combinations of weather, traffic and pedestrians. 
 
+<h1> 
+ 
+```diff
+- References
+```
+
+</h1>
+
+- https://github.com/timzhang642/3D-Machine-Learning
+- https://github.com/QingyongHu/SoTA-Point-Cloud
+- https://github.com/Yochengliu/awesome-point-cloud-analysis
